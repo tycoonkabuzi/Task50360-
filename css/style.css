@@ -3,3 +3,6 @@ p {
   width: 100px;
   background-color: red;
 }
+.changed-background {
+  background-color: blue;
+}
