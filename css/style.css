@@ -6,3 +6,6 @@ p {
 .changed-background {
   background-color: blue;
 }
+.transparent-background {
+  opacity: 0.2;
+}
